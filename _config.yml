@@ -1,0 +1,21 @@
+# Site settings
+title: Crafting Code
+header-img: img/home-bg.png
+email: leighayna.josele@gmail.com
+copyright_name: lpassamano
+description: > # this means to ignore newlines until "baseurl:"
+  Inside my journey to becoming a developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  lpassamano
+learn_profile: lpassamano
+email_username: leighayna.josele@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
