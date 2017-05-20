@@ -4,7 +4,7 @@ title:  Why coding? Why now?
 date:   2017-05-10 18:44:52 -0400
 ---
 
-I first started seriously coding at the job I had while I was in graduate school. We used a terribly outdated CMS that made formatting a nightmare. I quickly realized that I could manipulate the HTML source code which made everything easier. Before that, I knew about coding from a mandatory course during undergrad, which was not so jokingly called MySpace 101, and the Matrix. Basically, I knew nothing and wasn't interested in learning more than what I needed to make my job easier. That was until I was laid off and discovered Codecademy and the power of code to create. 
+I first started seriously coding at the job I had while I was in graduate school. We used a terribly outdated CMS that made formatting a nightmare and I quickly realized that I could manipulate the HTML source code which made everything easier. Before that, I knew about coding from a mandatory course during undergrad, which was not so jokingly called MySpace 101, and the Matrix. Basically, I knew nothing and wasn't interested in learning more than what I needed to make my job easier. That was until I was laid off and discovered Codecademy and the power of code to create. 
 
 ![](https://media4.giphy.com/media/yk1v5aQzSIKQg/giphy.gif)
 
