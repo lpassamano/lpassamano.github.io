@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ACT-W New York Conference
-date:   2017-05-22 20:02:19 +0000
+date:   2017-05-22 16:02:20 -0400
 ---
 
 On Friday I attended the ACT-W New York Conference, which was put together by the NYC Chapter of ChickTech, a non-profit that is dedicated to retaining and increasing the number of women in tech careers. While more women are entering tech careers, there is still an issue with retention, which is why conferences like this are needed. Overall this was a great conference -- I had to the chance to meet others who are also in the process of switching careers and from those who have already done so successfully. The atmosphere was very friendly and welcoming, which was great as a first time tech conference attendee!
@@ -47,4 +47,4 @@ The last session I attended was *Navigating the Workplace: Career Path in a Grow
 * Email recruiters and make sure you keep in contact with your network. 
 * Make sure you are able to articulate your strengths and why you want to be a software engineer. 
 
-**TL/DR:** This was a great conference and is definitely worth attending! There are a few more upcoming in cities across the USA ([act-w.org](http://www.act-w.org/)). Everyone from the speakers to the volunteers were friendly and welcoming, I highly recommend this conference and will be attending again next year!
+**TL/DR:** This was a great conference and is definitely worth attending! There are a few more upcoming in cities across the USA ([act-w.org](http://www.act-w.org/)). Everyone from the speakers to the volunteers were friendly and welcoming, I highly recommend this conference and am excited to attend again next year!
