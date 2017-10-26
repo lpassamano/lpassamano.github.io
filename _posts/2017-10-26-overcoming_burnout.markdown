@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Overcoming Burnout"
-date:       2017-10-26 20:42:14 +0000
+date:       2017-10-26 16:42:15 -0400
 permalink:  overcoming_burnout
 ---
 
